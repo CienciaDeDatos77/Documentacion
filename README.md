@@ -1,4 +1,4 @@
-# RUEDA DE LA VIDA
+# RUEDA DE LA VIDA CESAR Y JUAN
 
 Este repositorio contiene un archivo de Excel con una "rueda de vida" y varios documentos que explican el proceso de creación de la misma. La rueda de vida es una herramienta comúnmente utilizada para la autoevaluación y el desarrollo personal.
 
